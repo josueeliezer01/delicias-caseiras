@@ -22,7 +22,7 @@ function App() {
           title="Que mais combina com você"
         />
         <Opcoes />
-        <About />
+        <About setPlayState={setPlayState} />
         <Title
           subTitle="Combos"
           title="Aproveite as promoções"
