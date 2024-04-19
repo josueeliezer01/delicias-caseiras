@@ -29,7 +29,6 @@ nav ul li {
 
 nav li:hover {
   color: #98001e;
-  font-size: 26px;
   text-decoration: underline;
   cursor: pointer;
   text-shadow: 2px 2px 4px #c04b63;
@@ -52,7 +51,7 @@ nav li:hover {
   }
 
   nav ul li {
-    margin: 10px 13px;
+    margin: 10px 15px;
   }
 }
 

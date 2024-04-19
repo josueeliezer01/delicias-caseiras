@@ -48,7 +48,7 @@ function NavBar() {
           <Link
             to="about"
             smooth={true}
-            offset={-110}
+            offset={-135}
             duration={500}>
             SOBRE NÓS
           </Link>

@@ -40,7 +40,10 @@ function App() {
         <Contato />
         <Footer />
       </div>
-      <VideoPlayer />
+      <VideoPlayer
+        playState={playState}
+        setPlayState={setPlayState}
+      />
     </div>
   );
 }
